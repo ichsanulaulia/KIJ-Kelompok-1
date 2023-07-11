@@ -1,7 +1,7 @@
 import socket
 from Crypto.Cipher import AES
 
-HOST = '127.0.0.1'
+HOST = 'localhost'
 PORT = 9000
 KEY = b'Sixteen byte key'
 
